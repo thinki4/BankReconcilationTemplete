@@ -1,0 +1,8 @@
+{
+  "mockedWorkflows": [
+    {
+      "mockFilePath": "Mocks\\Initialization\\GetInputData_mock.xaml",
+      "sourceWorkflowPath": "Initialization\\GetInputData.xaml"
+    }
+  ]
+}
